@@ -7,3 +7,26 @@
     font-size: 70px;
     font-weight: bold;
 }
+
+.start-btn {
+    margin-bottom: 7px;
+    padding-top: 1px;
+    border-radius: 5px;
+    right: 232px;
+    position: absolute;
+    width: 113px;
+    height: 40px;
+    font-family: Roboto Condensed;
+    font-size: 17px;
+    font-weight: bold;
+    color: beige;
+    background-color: rgb(58, 56, 56);
+    cursor: pointer;
+    outline: none;
+}
+
+.fake-input {
+    position: relative;
+    width: 175px;
+    float: right;
+}

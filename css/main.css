@@ -158,3 +158,7 @@ h3 {
     color: rgb(93, 93, 93);
     cursor: pointer;
 }
+.section2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }

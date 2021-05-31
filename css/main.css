@@ -30,3 +30,15 @@
     width: 175px;
     float: right;
 }
+.fake-input input {
+    border: none;
+    background: #fff;
+    width: 99%;
+    box-sizing: border-box;
+    right: 10px;
+}
+.fake-input img {
+    position: absolute;
+    top: -35px;
+    right: -133px;
+}

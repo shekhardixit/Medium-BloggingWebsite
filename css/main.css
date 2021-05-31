@@ -48,6 +48,11 @@
     cursor: pointer;
 }
 
+.container {
+    text-align: center;
+    color: blanchedalmond;cursor: pointer;
+  }
+
 .main_container{
     height:40px;
     width: auto;

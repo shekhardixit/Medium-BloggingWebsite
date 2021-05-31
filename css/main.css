@@ -101,12 +101,11 @@ vertical-align:center;
 font-weight: bolder;
 cursor: pointer;
 }
-
+/* Navbar css updated */
 .nav {
     background-color: rgb(68, 67, 67);
     padding: 0px;
     text-align: center;
-    /* border: 1px solid black; */
     border-radius: 3px;
     margin-top: 3px;
     padding-bottom: 1px;

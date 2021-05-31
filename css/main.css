@@ -42,3 +42,36 @@
     top: -35px;
     right: -133px;
 }
+
+.count{
+    float: right;
+    cursor: pointer;
+}
+
+.main_container{
+    height:40px;
+    width: auto;
+    padding: 0px;
+    margin: 900px;
+    max-width: 200px;
+    background-color: #55ACEE;
+    align-content: center;
+    display: inline;
+    margin:1px 1px 1px 1px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+input {
+    -webkit-appearance: textfield;
+    background-color: rgb(243, 240, 240);
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    padding: 2px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: grey;
+    border-image: initial;
+    height: 39px;
+    border-radius: 5px;
+  }

@@ -74,4 +74,30 @@ input {
     border-image: initial;
     height: 39px;
     border-radius: 5px;
+}
+
+.container_inner{
+    height: auto;
+    border: none;
+    background-color: rgb(243, 237, 237);
+    vertical-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 4px;
+    display: inline;
+    cursor: pointer;
+  }
+  
+  .num_tiles{
+    background-color:  rgb(243, 237, 237);
+    color: #5B7BD5;
+    font-size: 18px;
+    text-align: center;
+    line-height: 15px;
+    padding: 1px;
+    margin: 1px;
+    font-family:verdana;
+    vertical-align:center;
+    font-weight: bolder;
+    cursor: pointer;
   }

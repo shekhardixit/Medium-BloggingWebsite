@@ -250,3 +250,20 @@ a {
 a:hover {
     color: aquamarine;
 }
+
+/* Newpage.html */
+.details p{
+    color: rgb(70, 70, 70);
+    margin-left:80px;
+    margin-right:80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+}
+  
+.details img{
+    float: right;
+      position: relative;
+      right: 100px;
+      top: 28px;
+      cursor: pointer;
+}

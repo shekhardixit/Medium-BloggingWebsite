@@ -176,3 +176,15 @@ h3 {
     padding-left: 10px;
     padding-right: 10px;
 }
+.page-footer {
+    background-color: rgb(56, 56, 56);
+    border-radius: 3px;cursor: pointer;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
